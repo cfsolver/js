@@ -70,7 +70,7 @@ function updateBestMove() {
         let text = '-', color = 'gray';
         if (score > 0) text = score.toString(), color = 'green';
         else if (score < 0) text = (-score).toString(), color = 'red';
-        if (col === bestCol && text !== '-') text = `[${text}]`;
+        if (col === bestCol) text = `[${text}]`;
 
         const cell = document.querySelector(`.grid-item.cell-1-${col + 1}`);
         if (!cell) return;
