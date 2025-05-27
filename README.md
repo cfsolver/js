@@ -21,4 +21,4 @@ Use this Javascript code in your browser at papergames-io to see best moves. It 
 
 ## 🏷️ Keywords
 
-connect 4 papergames.io, javascript connect4 solver, browser game bot, connect4 cheat, gamesolver, connect 4 AI, connect 4 devtools hack
+connect 4 papergames.io, javascript connect4 solver, browser game bot, connect4 cheat, gamesolver, connect 4 AI, connect 4 devtools hack, papergames, connect4, javascript
