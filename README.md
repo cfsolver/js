@@ -3,7 +3,7 @@ Use this Javascript code in your browser at papergames-io to see best moves. It 
 
 # TUTORIAL
 
-1. Go to https://papergames.io/ and open devtools console via Ctrl+Shift+I
+1. Go to https://papergames.io/ and open devtools console via Ctrl+Shift+I (if you fail at step 1, dont try again)
 
 2. Copy and paste [this](https://github.com/cfsolver/js/blob/main/code.js) javascript code into console, press enter
 
