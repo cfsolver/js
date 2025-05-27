@@ -16,4 +16,4 @@ Use this Javascript code in your browser at papergames-io to see best moves. It 
     🔲 Square brackets [ ]: best move, play it (when its your turn)
 ![image](https://github.com/user-attachments/assets/ff312458-2a07-409d-a83f-6a3c3a44e5c7)
 
- Keep in mind that reloading page resets your scripts, you have to go to console again
+⚠️ Note: Reloading the page will remove the script. You’ll need to paste it again.
