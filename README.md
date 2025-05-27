@@ -1,5 +1,5 @@
 # papergames-io Connect 4 solver Javascript
-Use this Javascript code in your browser at papergames-io to see best moves
+Use this Javascript code in your browser at papergames-io to see best moves. It uses [connect4.gamesolver.org](https://connect4.gamesolver.org/) as solver
 
 # TUTORIAL
 
