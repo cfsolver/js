@@ -16,6 +16,7 @@ Use this Javascript code in your browser at papergames-io to see best moves. It 
     🟥 Red: losing move
    
     🔲 Square brackets [ ]: best move, play it (when its your turn)
-![image](https://github.com/user-attachments/assets/ff312458-2a07-409d-a83f-6a3c3a44e5c7)
+
+![image](https://github.com/user-attachments/assets/779c7525-7780-46c7-bca4-d12a8e8e96c0)
 
 ⚠️ Note: Reloading the page will remove the script. You’ll need to paste it again.
