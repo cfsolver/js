@@ -9,7 +9,7 @@ Use this Javascript code in your browser at papergames-io to see best moves. It 
 
 ⚠️ You should enter code BEFORE starting match
 
-3. Now, when playing connect-4, you will see evaluation on top.
+3. Now, when playing Connect 4, you will see evaluation on top.
 
     🟩 Green: winning move
    
