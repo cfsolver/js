@@ -68,7 +68,7 @@ function updateBestMove() {
         if (score === 100) return;
 
         let text = '-', color = 'gray';
-        if (score > 0) text = score.toString(), color = 'green';
+        if (score > 0) text = score.toString(), color = '#00BB00';
         else if (score < 0) text = (-score).toString(), color = 'red';
         if (col === bestCol) text = `[${text}]`;
 
