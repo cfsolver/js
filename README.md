@@ -6,6 +6,7 @@ Use this Javascript code in your browser at papergames-io to see best moves. It 
 1. Go to https://papergames.io/ and open devtools console via **Ctrl+Shift+I**
 
 2. Copy and paste [this](https://github.com/cfsolver/js/blob/main/code.js) javascript code into console, press Enter
+
 ⚠️ You should enter code BEFORE starting match
 
 3. Now, when playing connect-4, you will see evaluation on top.
